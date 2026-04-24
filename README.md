@@ -1,4 +1,4 @@
-# Mini-SaaS Task Management Application
+# Task Management Application
 
 A production-ready full-stack task management application built with Node.js, Express, React, and PostgreSQL. This application allows users to securely register, login, and manage their own isolated tasks.
 
