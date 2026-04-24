@@ -2,7 +2,7 @@
 
 A production-ready full-stack task management application built with Node.js, Express, React, and PostgreSQL. This application allows users to securely register, login, and manage their own isolated tasks.
 
-## 🚀 Features
+## Features Implemented
 
 - **Secure Authentication**:
    - User Signup and Login.
@@ -17,7 +17,7 @@ A production-ready full-stack task management application built with Node.js, Ex
    - Built following MVC principles (Models, Views/React, Controllers).
    - Global error handling, input validation, and proper database relationships.
 
-## 🛠️ Tech Stack
+## Tech Stack Used
 
 **Frontend:**
 
@@ -46,7 +46,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 ---
 
-## ⚙️ Installation & Setup
+## Setup Steps
 
 This repository contains both the client and server code in a monorepo structure. You will need to start both servers concurrently.
 
